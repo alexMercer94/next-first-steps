@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     keywords: ['Pricing Page', 'Test', 'Info', '...'],
 };
 
-const PricigPage = () => {
+const PricingPage = () => {
     return (
         <>
             <div>Pricing Page</div>
@@ -14,4 +14,4 @@ const PricigPage = () => {
     );
 };
 
-export default PricigPage;
+export default PricingPage;

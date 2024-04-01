@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 const AboutPage = () => {
     return (
         <>
-            <div>About Page</div>
+            <div className="text-7xl">About Page</div>
         </>
     );
 };
